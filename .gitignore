@@ -1,0 +1,26 @@
+# Arquivos gerados pelo compilador
+*.o
+*.obj
+*.a
+*.lib
+*.out
+*.exe
+
+# Arquivos de log
+*.log
+*.tmp
+*.bak
+
+# Arquivos de configuração do sistema
+*.conf
+*.cfg
+*.ini
+*.sh
+
+# Pastas
+/.vscode
+
+# Outros arquivos que você possa querer ignorar
+# *.swp (arquivos de troca do editor)
+# ~/.vimrc (configuração do editor Vim)
+# ~/.emacs.d (configuração do editor Emacs)
