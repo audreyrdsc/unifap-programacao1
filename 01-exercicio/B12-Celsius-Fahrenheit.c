@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//Conversão de Celsius para Fahrenheit
 int main() {
 
     float tf, tc;
