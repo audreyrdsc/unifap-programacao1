@@ -1,3 +1,7 @@
+//Questão 04. Faça um programa em C que apresente um quadrado como o do exemplo abaixo. O usuário deve 
+//informar qual a altura ele deseja para o triângulo e se ele gostaria que o triângulo fosse apresentado 
+//vazado ou preenchido.
+
 #include <stdio.h>
 
 int main() {
