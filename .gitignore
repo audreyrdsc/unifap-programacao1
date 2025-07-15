@@ -18,7 +18,11 @@
 *.sh
 
 # Pastas
-/.vscode
+.vscode
+/Aulas
+Tipos-flutuantes.c
+../Desafio-01/Desafios 01 - Programa\303\247\303\243o 01.docx
+
 
 # Outros arquivos que você possa querer ignorar
 # *.swp (arquivos de troca do editor)
