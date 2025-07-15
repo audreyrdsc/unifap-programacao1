@@ -1,0 +1,9 @@
+https://github.com/audreyrdsc/unifap-programacao1.git
+
+Nesse link de repositório do Github estão os códigos das atividades divididos nas seguintes pastas:
+
+\Desafio-01 - Desafio 01 contendo 06 questões diversas
+
+\Desafio-02 - Desafio 02 contendo 55 questões com comandos de repetição
+
+\Lista-IFCatarinense - Caderno de exercícios do Instituto Federal Catarinenese - Ainda em resolução
